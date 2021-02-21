@@ -1,0 +1,7 @@
+C:\Users\devan\source\repos\ProjectHost\bin\Debug\ProjectHost.exe.config
+C:\Users\devan\source\repos\ProjectHost\bin\Debug\ProjectHost.exe
+C:\Users\devan\source\repos\ProjectHost\bin\Debug\ProjectHost.pdb
+C:\Users\devan\source\repos\ProjectHost\obj\Debug\ProjectHost.csprojAssemblyReference.cache
+C:\Users\devan\source\repos\ProjectHost\obj\Debug\ProjectHost.csproj.CoreCompileInputs.cache
+C:\Users\devan\source\repos\ProjectHost\obj\Debug\ProjectHost.exe
+C:\Users\devan\source\repos\ProjectHost\obj\Debug\ProjectHost.pdb

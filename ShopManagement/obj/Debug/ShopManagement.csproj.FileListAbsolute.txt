@@ -1,0 +1,7 @@
+C:\Users\devan\source\repos\ShopManagement\bin\Debug\ShopManagement.dll.config
+C:\Users\devan\source\repos\ShopManagement\bin\Debug\ShopManagement.dll
+C:\Users\devan\source\repos\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\devan\source\repos\ShopManagement\obj\Debug\ShopManagement.csprojAssemblyReference.cache
+C:\Users\devan\source\repos\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\devan\source\repos\ShopManagement\obj\Debug\ShopManagement.dll
+C:\Users\devan\source\repos\ShopManagement\obj\Debug\ShopManagement.pdb
